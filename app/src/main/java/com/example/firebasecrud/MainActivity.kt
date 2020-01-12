@@ -42,7 +42,7 @@ class MainActivity : AppCompatActivity() {
         firebaseListenerInit()
 
         recyclerViewRecyclableItem.layoutManager = LinearLayoutManager(this)
-        val query = recyclableItemReference!!.limitToLast(8)
+        val query = recyclableItemReference!!
         recyclableItemAdapter = object: FirebaseRecyclerAdapter<RecyclableItem, RecyclableItemViewHolder>(
             RecyclableItem::class.java, R.layout.recyclable_item_view, RecyclableItemViewHolder::class.java,query
         ){
