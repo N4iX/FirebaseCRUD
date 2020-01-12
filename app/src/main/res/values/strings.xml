@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FirebaseCRUD</string>
+
+    <string name="add_recyclable_item">Add Recyclable Item</string>
+    <string name="edit_and_delete_recyclable_item">Edit &amp; Delete Recyclable Item</string>
+
+    <!--    HX-->
+    <string name="recyclable_item_list_title">Recyclable items:</string>
+    <string name="recyclable_item_name">Recyclable Item Name</string>
+    <string name="recyclable_item_image">Recyclable Item Image</string>
+    <string name="recyclable_item_info_link">Item Info Link</string>
+    <string name="paper">Paper</string>
+    <string name="plastic">Plastic</string>
+    <string name="cardboard">Cardboard</string>
+    <string name="glass">Glass</string>
+    <string name="aluminium_cans">Aluminium cans</string>
+    <string name="juice_and_milk_cartons">Juice and milk cartons</string>
+
+    <string name="add">Add</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="item_name">Item Name</string>
+    <string name="image_link">Image Link</string>
+    <string name="info_link">Info Link</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
